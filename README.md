@@ -6,3 +6,5 @@ test project to show interactive rebase
 ##Feature One Edit 1
 
 ##Adding logs
+
+## Resolved All Review comments
